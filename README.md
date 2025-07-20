@@ -141,4 +141,3 @@ Feel free to open an [issue](https://github.com/glitching-gops/AI_Trip_Planner/i
 
 ---
 
-Let me know if you'd like help with a logo, deploy instructions (e.g., Render, HuggingFace, Vercel), or writing a contributing guide.
